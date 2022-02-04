@@ -1,7 +1,19 @@
 # AdministracionAlumnosMateriasCLI
 
-/*
-	Objetivo: Administración de alumnos y materias
-	Fecha de entrega: 17/Mayo/2017
-	Elaboró: Jesús Alejandro Yahuitl Rodríguez y Belén Tepoz Romero
-*/
+Administración de alumnos y materias_
+
+## Built with 🛠️
+
+* [C](https://www.cprogramming.com/) 
+
+## Devs ✒️
+
+* **Belén Tepoz Romero** - *Dev* - [oscar-07](https://github.com/oscar-07)
+* **Jesús Alejandro Yahuitl Rodríguez** - *Dev* - [YisusYaro](https://github.com/YisusYaro/)
+
+## License 📄
+
+This project is under the License described in the file [LICENSE](LICENSE)
+
+---
+⌨️ con ❤️
