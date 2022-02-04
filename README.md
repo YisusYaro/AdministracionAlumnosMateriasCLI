@@ -8,7 +8,7 @@ Administración de alumnos y materias_
 
 ## Devs ✒️
 
-* **Belén Tepoz Romero** - *Dev* - [oscar-07](https://github.com/oscar-07)
+* **Belén Tepoz Romero** - *Dev* - [BelenTepozR](https://github.com/BelenTepozR)
 * **Jesús Alejandro Yahuitl Rodríguez** - *Dev* - [YisusYaro](https://github.com/YisusYaro/)
 
 ## License 📄
